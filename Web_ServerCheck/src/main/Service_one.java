@@ -13,5 +13,9 @@ public class Service_one
 	{
 		System.out.println("Good morning");
 	}
+	public void sayHi()
+	{
+		System.out.println("Hii");
+	}
 
 }
