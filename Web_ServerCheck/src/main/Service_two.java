@@ -6,6 +6,13 @@ public class Service_two
 	{
 		int k=0;
 		System.out.println(k);
+			int b=0;
+		for(b=0;b<10;b++)
+		{
+			System.out.println("Iterative loop");
+			
+		}
+	
 	}
 
 }
