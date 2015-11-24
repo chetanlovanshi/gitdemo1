@@ -9,5 +9,9 @@ public class Service_one
 		System.out.println("Third change");
 		
 	}
+	public void greet()
+	{
+		System.out.println("Good morning");
+	}
 
 }
