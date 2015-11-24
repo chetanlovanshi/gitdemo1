@@ -5,7 +5,7 @@ public class Service_one
 	public void sayHello()
 	{
 		System.out.println("Hello");
-		System.out.println("added a second test output");
+		System.out.println("Statement of Collaboration");
 		
 	}
 	public void greet()
